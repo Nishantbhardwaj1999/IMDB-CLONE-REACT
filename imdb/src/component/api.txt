@@ -1,0 +1,3 @@
+c7e702c834edd3e7a294a21f4f501eaa
+
+https://api.themoviedb.org/3/trending/movie/week?api_key=c7e702c834edd3e7a294a21f4f501eaa
